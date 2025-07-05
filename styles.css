@@ -2,11 +2,14 @@
 table {
   border:1px solid;
   width: 30%;
-
+  margin: 20px auto;
   background-color:yellow;	
 }
 
 th, td {
   border: 1px solid #000;
   text-align: left;
+}
+h2{
+	text-align:center;
 }
