@@ -1,7 +1,7 @@
 /*  your css code here. If applicable */
 table {
   border:1px solid;
-  width: 50%;
+  width: 30%;
   margin: 20px auto;
   background-color:yellow;	
 }
@@ -11,4 +11,6 @@ th, td {
   padding: 8px 12px;
   text-align: left;
 }
-
+h2{
+	text-align:center;
+}
